@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Json2StringBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Temporario\\envio.json"
+    }
+  }
+}
